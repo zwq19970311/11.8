@@ -1,0 +1,3 @@
+git --version 查看git版本
+
+ls -a 查看当前文本目录
